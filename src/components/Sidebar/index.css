@@ -1,0 +1,38 @@
+.list-item-0 {
+  display: flex;
+  align-items: center;
+  opacity: 0.7;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  opacity: 0.8;
+  background-color: rgb(199, 192, 192);
+  width: 120%;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.list-item-1 {
+  display: flex;
+  align-items: center;
+  opacity: 0.4;
+}
+
+.list-item-2 {
+  display: flex;
+  align-items: center;
+  opacity: 0.3;
+}
+
+.li-p-item {
+  margin-left: 12px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.span-para {
+  font-size: 12px;
+  font-weight: 100;
+}
